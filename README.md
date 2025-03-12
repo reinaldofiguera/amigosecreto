@@ -38,10 +38,13 @@ O código é dividido em três funções principais:
    - Sorteia um nome aleatório da lista.
    - Exibe o nome sorteado e limpa a lista para um novo ciclo.
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização da interface.
 - **JavaScript**: Lógica para adicionar, listar e sortear amigos.
 
-## Como Executar o Projeto ▶️
+## Como Executar o Projeto
+1. Clone este repositório:
+   `bash
+   
