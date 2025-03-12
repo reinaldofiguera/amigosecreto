@@ -1,17 +1,17 @@
 # amigosecreto
 Jogo do Amigo Secreto
-# Challenge-Amigo-Secreto 🎉
+# Challenge-Amigo-Secreto
 
-Este é um projeto simples para sortear amigos secretos. Ele permite adicionar nomes de amigos à lista e, em seguida, sortear um nome aleatório da lista. Após o sorteio, a lista é limpa para um novo ciclo.
+Este é um projeto para sortear amigos secretos. Ele permite adicionar nomes de amigos para serem sorteados aleatórimente da lista. Após o sorteio, a lista é limpa para um novo sorteio.
 
-## Funcionalidades ✨
+# Funções do projeto
 
 - **Adicionar Amigos**: Insira o nome de um amigo no campo de texto e clique em "Adicionar" para incluí-lo na lista.
 - **Listar Amigos**: Todos os nomes adicionados são exibidos em uma lista na tela.
 - **Sortear Amigo Secreto**: Clique em "Sortear" para escolher um nome aleatório da lista. O nome sorteado será exibido na tela.
 - **Limpar Lista**: Após o sorteio, a lista de amigos é automaticamente limpa para um novo sorteio.
 
-## Como Usar 🚀
+## Modo de utilização
 
 1. **Adicionar Amigos**:
    - Digite o nome de um amigo no campo de texto.
