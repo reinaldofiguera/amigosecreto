@@ -45,6 +45,4 @@ O código é dividido em três funções principais:
 - **JavaScript**: Lógica para adicionar, listar e sortear amigos.
 
 ## Como Executar o Projeto
-1. Clone este repositório:
-   `bash
-   
+Acesse este link: https://reinaldofiguera.github.io/amigosecreto/
